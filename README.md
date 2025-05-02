@@ -6,6 +6,9 @@ Projeto em Django e Django REST Framework para coleta e visualização do preço
 
 O CoinData é uma aplicação backend que coleta o preço do Bitcoin (BTC) via API da CoinGecko a cada 1 minuto, armazena os dados com timestamp em um banco de dados PostgreSQL e disponibiliza os dados via API REST. Os dados serão posteriormente visualizados em tempo real via Grafana.
 
+![image](https://github.com/user-attachments/assets/d10e0c21-7709-4be9-b002-3cd9db49acbf)
+
+
 ## 📁 Estrutura do Projeto
 
 ```
